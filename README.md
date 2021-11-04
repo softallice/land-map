@@ -1,5 +1,8 @@
 # land price (land-map)
 
+# navermap module 
+https://dongkyuuuu.github.io/vue3-naver-maps/
+
 A Quasar Framework app
 
 ## Install the dependencies
